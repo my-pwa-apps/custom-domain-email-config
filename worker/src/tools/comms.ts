@@ -1,0 +1,1 @@
+export const FROM_ADDRESS = 'onboarding@paperclip-ai.pages.dev';
